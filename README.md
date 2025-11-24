@@ -30,7 +30,7 @@ Run the program and use the menu to:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/main1.png)
+![Main Menu](https://github.com/Pranshu125/finance-tracker/raw/main/main1.png)
 
 ### Adding Income Transaction
 ![Add Income](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/transactions1.png)
