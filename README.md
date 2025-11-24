@@ -4,11 +4,11 @@
 A simple CLI-based application to track personal income and expenses. Helps users manage their budget effectively.
 
 ## Features
-- ✅ Add income/expense transactions
-- ✅ View financial summary with balance
-- ✅ Category-wise tracking
-- ✅ Data persistence using CSV files
-- ✅ Simple text-based interface
+- Add income/expense transactions
+- View financial summary with balance
+- Category-wise tracking
+- Data persistence using CSV files
+- Simple text-based interface
 
 ## Technologies Used
 - Python 3
