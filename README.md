@@ -38,13 +38,10 @@ Run the program and use the menu to:
 ### Adding Expense Transaction  
 ![Add Expense](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/transactions2.png)
 
-### View Summary
-![View Summary](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/output1.png)
-
-### Storage File
-![Storage](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/storage.png)
-
 ### Program Output
-![Output](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/output2.png)
-## Screenshots
-*(We'll add screenshots here in the next step)*
+![Program Output 1](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/output1.png)
+
+![Program Output 2](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/output2.png)
+
+### Data Storage
+![Storage File](https://github.com/Pranshu125/finance-tracker/raw/main/screenshots/storage.png)
